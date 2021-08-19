@@ -1,0 +1,3 @@
+<firstName> had a <adjectiveOne> <animal>, its fleece was <color>
+as <noun>.  And every where that <firstName> went, the <animal> was
+sure to <verb>.
