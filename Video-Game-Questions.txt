@@ -1,0 +1,41 @@
+prompt: What is the capitol of Texas?
+correct-answer: C
+answer: Houston
+answer: Dallas
+answer: Austin
+answer: San Antonio
+
+prompt: What is two plus two?
+correct-answer: A
+answer: four
+answer: forty
+answer: funkytown
+answer: pudding
+answer: none of the above
+
+prompt: Do you like swarms of things?
+correct-answer: B
+answer: Yes
+answer: No
+
+prompt: What year was Donkey Kong released for Arcade cabinets?
+correct-answer: C
+answer: 1971
+answer: 1955
+answer: 1981
+answer: 1994
+answer: 2001
+
+prompt: What was the name of the special chip inside the SNES Star Fox cartridge?
+correct-answer: b    
+answer: Ultra DX
+answer: Super FX
+answer: Hyper GX
+answer: Super ZF
+answer: Alpha VP
+
+prompt: Did Video games originated in Japan?
+correct-answer: B    
+answer: True
+answer: False
+

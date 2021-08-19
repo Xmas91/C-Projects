@@ -1,0 +1,25 @@
+prompt: What was the first item Link ever got on his journey?
+correct-answer: C
+answer: Bombs
+answer: Arrows
+answer: Sword
+answer: Shield
+
+prompt : Was the original Bomberman a robot?
+correct-answer: A
+answer: Yes
+answer: No
+
+prompt: Which was Luigi's first appearance as Mario's brother?
+correct-answer: C
+answer: Donkey Kong
+answer: Super Mario Bros 2
+answer: Mario Bros (Arcade)
+
+prompt: What is a Metroid's true weakness?
+correct-answer: E
+answer: Power Bombs
+answer: Plasma Beam
+answer: Super Missles
+answer: Indestructable
+answer: Ice
